@@ -1,1 +1,3 @@
-# Repositório que contém as atividades da disciplina de Programação Funcional
+# Programação Funcional
+
+Repositório que contém as atividades da disciplina de Programação Funcional.
